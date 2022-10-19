@@ -1,4 +1,4 @@
-### Hi there, I'm Brendan (he/him)
+### Hi there, I'm Brendan!
 
 I'm a software developer by trade, and I enjoy coding in my own time.
 
